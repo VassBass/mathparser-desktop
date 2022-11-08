@@ -1,0 +1,11 @@
+# Project exclude paths
+target
+out
+
+src/main/java/META-INF
+
+# IDEA
+.idea
+
+Data.db
+testData.db
